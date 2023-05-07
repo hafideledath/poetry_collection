@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/poetry_collection/static/css/main.5515ee44.css",
-    "main.js": "/poetry_collection/static/js/main.04518b4b.js",
+    "main.js": "/poetry_collection/static/js/main.c11b3068.js",
     "static/media/create_without_constraint.svg": "/poetry_collection/static/media/create_without_constraint.67c08e08419b047360306a34ddc3db69.svg",
     "static/media/get_inspired.svg": "/poetry_collection/static/media/get_inspired.59446feb7ccda51ff1a61db2feb96cc9.svg",
     "static/media/submit.svg": "/poetry_collection/static/media/submit.3128f967ab812e189e5b9273b5c71d10.svg",
     "index.html": "/poetry_collection/index.html",
     "main.5515ee44.css.map": "/poetry_collection/static/css/main.5515ee44.css.map",
-    "main.04518b4b.js.map": "/poetry_collection/static/js/main.04518b4b.js.map"
+    "main.c11b3068.js.map": "/poetry_collection/static/js/main.c11b3068.js.map"
   },
   "entrypoints": [
     "static/css/main.5515ee44.css",
-    "static/js/main.04518b4b.js"
+    "static/js/main.c11b3068.js"
   ]
 }
