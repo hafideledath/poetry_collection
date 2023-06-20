@@ -2,11 +2,12 @@ import Navbar from './Navbar';
 import Home from './Home';
 import About from './About';
 import Submit from './Submit';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <Router>
+
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Navbar />
         <div className="content">
@@ -17,7 +18,7 @@ function App() {
           </Routes>
         </div>
       </div>
-    </Router>
+    </BrowserRouter>
   );
 }
 

@@ -1,5 +1,5 @@
 {
-  "homepage": "http://hafideledath.github.io/poetry_collection",
+  "homepage": "https://dia-poetry.netlify.app",
   "name": "hafid-blog",
   "version": "0.1.0",
   "private": true,
@@ -10,10 +10,13 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "babel-plugin-macros": "^3.1.0",
+    "prune": "^0.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-ga4": "^2.1.0",
     "react-router-dom": "^6.11.1",
     "react-scripts": "^5.0.1",
+    "run": "^1.4.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
