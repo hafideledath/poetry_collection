@@ -6,59 +6,71 @@ import { faChevronLeft, faChevronRight } from '@fortawesome/free-solid-svg-icons
 import getInspired from "./get_inspired.svg";
 
 const poems = [
-["Wrapping paper", `I want to color outside the lines 
+["Wrapping paper", 
+
+`I want to color outside the lines 
 Paint the walls with my fear 
 But this time they’ll put me  
 in wrapping paper, a bow on my head 
-That says “she’s fine”`, "Caitlyn Rodrigues"],
-["Curse", `She's not homeless, but her mind is. 
-She thinks of a person, her skies red and blue. 
-Angry and calm.
- 
-She sees him walk in the darkness, 
-He becomes her moonlight 
-But, when he touches her 
-Snowflakes dance on her spine. 
- 
-She sits under a dying tree, 
-Taking down her epitaph notes 
-Black fogging her brain 
-Why did he do this to her? 
- 
-The clouds form a castle above her head 
-The tinges of a rainbow make her smile 
-She has reached acceptance 
-But, is she fine? 
+That says “she’s fine”`, 
 
-Her vindictive desire takes over 
-All the colors gone 
-They leave her blank 
-Left for people to paint 
-An empty slate.`, "Anurati Sharma"],
-["GM China ☀️", `現在我有冰淇淋
-我很喜歡冰淇淋
-但是
-《速度與激情9》
-比冰淇淋
-《速度與激-》
-《速度與激情9》
-我最喜歡
-所以現在是
-音樂時間
-準備`, "Yu Chen Hsu"],
-["Life", `Preoccupied with a single leaf,
+"Caitlyn Rodrigues"],
+
+
+["Ennui", 
+
+`Curvy shapes, like rigid lines.
+Time slows, and confines me. 
+Left alone with my thoughts,
+held prison by my room.`, 
+
+"Anonymous"],
+
+
+["Facts", 
+
+`As I lay 
+My phone
+Hits my face
+And the pain 
+Is always the same`, 
+
+"Chris Linchausen"],
+
+
+["Life", 
+
+`Preoccupied with a single leaf,
 you won’t see the entire tree.
 Preoccupied with a single, tree,
-you won’t see the entire forest.`, "Ahmad Oneissi"],
-["UNO", `What do they have?
+you won’t see the entire forest.`, 
+
+"Ahmad Oneissi"],
+
+
+["UNO", 
+
+`What do they have?
 I should stay the course, 
 I'm close, I can shout UNO. 
 They have to play by force. 
-Darn, a plus four.`, "Ezekiel Peralta"],
-["Dandelions", `White dandelions 
+Darn, a plus four.`, 
+
+"Ezekiel Peralta"],
+
+
+["Dandelions", 
+
+`White dandelions 
 Flowing, dancing in the wind
-Glowing in the sun`, "Hayun Jang"],
-["The Burden Inside", `The sun is very pretty,  
+Glowing in the sun`, 
+
+"Hayun Jang"],
+
+
+["The Burden Inside", 
+
+`The sun is very pretty,  
 when it's up in the sky.  
 Or when its going down  
 In a brilliant sunset, it shines.  
@@ -81,8 +93,14 @@ and the moon so bright. 
 But it hurts to remember,  
 that sometimes,  
 you just have to let it go.  
-And, you just have to say, ‘goodbye’. `, "Damla Dila Görener"],
-["Droste Effect", `Reflections again and again, 
+And, you just have to say, ‘goodbye’. `, 
+
+"Damla Dila Görener"],
+
+
+["Droste Effect", 
+
+`Reflections again and again, 
 Versions of myself within 
 Myself. Light should be there, 
 More faces with no grin. 
@@ -95,12 +113,30 @@ I know, I know, I know that!
 Other me, from other universes, 
 ‘What do I think of myself?’ I ask. 
 My double repeats, and another one repeats, 
-A recurring effect, in endless cycle of black.`, "Ezekiel Peralta"],
-["Facts", `As I lay 
-My phone
-Hits my face
-And the pain 
-Is always the same`, "Christoffer Linchausen"]
+A recurring effect, in endless cycle of black.`, 
+
+"Ezekiel Peralta"],
+
+
+["Love of creation", 
+
+`Humans are very clever. 
+Grateful for the gift, 
+For seeing the possible, 
+On a blank white surface. 
+ 
+Colors and lines, shapes and sizes. 
+Every time, always mesmerized. 
+Like music to the ears. 
+Yet aware of the price. 
+ 
+The blood, sweat and tears, 
+The frustrations, the confusion. 
+Alas, losing direction. The worst of all. 
+Never forget the reason, 
+For doing this at all.`, 
+
+"Ezekiel Peralta"]
 ];
 
 let i = 0;
